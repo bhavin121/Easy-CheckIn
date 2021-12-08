@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520771488460",
+    "project_id": "easy-checkin-1638705601897",
+    "storage_bucket": "easy-checkin-1638705601897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520771488460:android:3be1eb91886f11a4885069",
+        "android_client_info": {
+          "package_name": "com.example.easycheckin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520771488460-t2or4cdlqan8do6o2bptk9kf94tn36jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easycheckin",
+            "certificate_hash": "192c16e3b7327cee3ea803c75b0ee7f3ba93ea4f"
+          }
+        },
+        {
+          "client_id": "520771488460-e314i2ikg0uovounqverjvp60cda0gef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDachMdm4wxXOa0wsRb0R70TpkzfcjMR-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520771488460-e314i2ikg0uovounqverjvp60cda0gef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
